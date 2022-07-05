@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/jaehyun/algorism/algorism/Average Algorithm",
-      "program": "/home/jaehyun/algorism/algorism/Average Algorithm/build/Debug/outDebug",
+      "cwd": "/home/jaehyun/catkin_ws/algorism/ModeAlgorithm",
+      "program": "/home/jaehyun/catkin_ws/algorism/ModeAlgorithm/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
